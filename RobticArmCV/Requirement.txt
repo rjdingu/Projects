@@ -1,0 +1,13 @@
+Software Tools and Libraies: 
+  1.Opencv 
+  2.Matplotlib
+  3.Streamlit
+  4.Pyserial
+  5.Ardinuo IDE
+  6.VS Code
+
+Hardware used : 
+  1.Ardinuo Nano
+  2.Servo Motor - 4
+  3.Robotic arm (gripper type)
+  4.Jumper wires and Breadboard
